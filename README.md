@@ -1,6 +1,8 @@
 # Scorpion 2.0: AI Data Scraper
 
-ScrapeMaster is a Streamlit-based web scraping application designed to simplify the process of extracting data from web pages. It allows users to specify URLs and data fields interactively, facilitating the extraction and manipulation of web data.
+A Streamlit-based web scraping application designed to simplify the process of extracting data from web pages. it streamlines data collection and visualization, making it ideal for showcasing extracted web data in a modern and professional manner.
+
+![Preview Image](https://raw.githubusercontent.com/RSB-bd/Trending_doodle/refs/heads/main/Scorpion%20The%20Data%20Scraper.webp)
 
 ## Features
 
